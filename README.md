@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 I am a **Web Development Learner** interested in building and hosting websites.
-- 🛠 **Tools:** HTML, CSS, JavaScript, Python, Django
-- 🎮 **Interests:** Minecraft Coding & Server Management
+- 🛠 **Tools:** HTML, CSS, JavaScript, Python, Django,Data Management,Data Analysis
+- 🎮 **Interests:**Server Management
 - 📈 **Trading:** Nasdaq & Gold (ONS)
 
