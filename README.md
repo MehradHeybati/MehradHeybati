@@ -8,3 +8,13 @@
 | **Login & Public Page** | **Login & Admin Page** |
 
 </div>
+
+
+---
+
+## 👨‍💻 About Me
+I am a **Web Development Learner** interested in building and hosting websites.
+- 🛠 **Tools:** HTML, CSS, JavaScript, Python, Django
+- 🎮 **Interests:** Minecraft Coding & Server Management
+- 📈 **Trading:** Nasdaq & Gold (ONS)
+
