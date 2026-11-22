@@ -20,7 +20,7 @@
 | | |
 | :---: | :---: |
 |  [![Project 1](https://github.com/MehradHeybati/MehradHeybati/blob/main/pic.png?raw=true)](https://github.com/MehradHeybati/MehradHeybati) |
-| **Login & Public Page** | **Site Me** |
+| | **Site Me** |
 
 </div>
 
